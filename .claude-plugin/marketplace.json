@@ -8,7 +8,7 @@
       "name": "sales-super-agent",
       "source": "./sales-super-agent",
       "description": "Sales super-agent: PARA+I workspace playbooks plus the sales gateway connector.",
-      "version": "0.1.0"
+      "version": "0.1.1"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "mcpServers": {
     "sales-super-agent": {
       "type": "http",
-      "url": "https://corps-karl-serial-rat.trycloudflare.com/mcp"
+      "url": "https://findings-topics-modeling-columbus.trycloudflare.com/mcp"
     }
   }
 }
